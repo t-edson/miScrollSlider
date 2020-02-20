@@ -23,7 +23,7 @@ The HTML
 ```     
 The last page, of the slider, needs to be duplicated in this solution.
 
-The content for a page of the slider must be inserted in the <li> .. </li> tag and in theory can be any kind of html content including responsive content.
+The content for a page of the slider must be inserted in the <<li> .. <</li> tag and in theory can be any kind of html content including responsive content.
 
 The CSS
 
