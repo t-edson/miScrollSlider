@@ -16,7 +16,7 @@ The HTML
  <ul class="slidercont">
     <li> This is the Element 1 </li>
     <li> This is The Element 2 </li>
-    <!-- YEs the first page again -->
+    <!-- Yes, the first page again -->
     <li> This is The Element 1 </li>
   </ul>  
 </div>
@@ -51,7 +51,7 @@ The CSS
   93% {margin-left: -100%;}
   /*Return to first state*/
   96% {margin-left: -200%;}
-  96.001% {margin-left: 0;}
+  96.001% {margin-left: 0;} /*a immediate change*/
   100% {margin-left: 0;}
 }
 ```
