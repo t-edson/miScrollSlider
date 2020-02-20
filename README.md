@@ -1,5 +1,5 @@
 # miScrollSlider
-miScrollSlider is a very simple ínfinite auto scroll slider, created using only HTML and CSS animation. No navigation buttons are included.
+miScrollSlider is a very simple infinite auto scroll slider, created using only HTML and CSS animation. No navigation buttons are included.
 
 Implementing a continuous scroll slider in pure CSS is not so easy. The first approach is using animations and set "animation-direction: alternate", however this don't get the continuous scroll but a two-direction movement.
 
